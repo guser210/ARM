@@ -10883,6 +10883,7 @@ Source: &lt;a href="https://www.diodes.com/assets/Datasheets/AP7381.pdf"&gt; Dat
 <sheets>
 <sheet>
 <plain>
+<text x="-50.8" y="177.8" size="6.4516" layer="91" ratio="12">https://github.com/guser210/ARM/tree/main/Gyrocam%20BNO055%20v2</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="35.56" y="66.04" smashed="yes">
